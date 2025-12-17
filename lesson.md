@@ -4,7 +4,7 @@
 
 ### Preparation
 
-- We will be using the `bde` environment for this lesson. If you do not have the environment, please refer to [the environment folder](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/tree/main/environments)
+- We will be using the `bde` environment for this lesson. If you do not have the environment, please refer to [the environment folder](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/tree/main/environments). Setup instructions is at [installation page](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/blob/main/installation.md)
 
 - We also need to setup a Redis account. Please refer to the [installation guide under Lesson Preparation 2.2](https://github.com/su-ntu-ctp/5m-data-2.1-intro-big-data-eng/blob/main/installation.md#preparation-for-lesson-22)
 
