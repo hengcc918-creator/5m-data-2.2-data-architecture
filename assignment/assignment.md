@@ -58,6 +58,15 @@ for ix, item in enumerate(blobs):
         break
 ```
 
+Alternate answer:
+```python
+blobs = bucket.list_blobs(max_results=10)
+
+print("Blobs in {}:".format(bucket.name))
+for ix, item in enumerate(blobs):
+    print("\t {} ({} bytes)".format(item.name, item.size)) 
+```
+
 ## Submission
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
